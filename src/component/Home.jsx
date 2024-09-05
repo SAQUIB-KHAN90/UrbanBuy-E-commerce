@@ -161,7 +161,7 @@ const Home = ({ addtocart }) => {
                         </a>{" "}
                       </div>
                       <div className="icon">
-                        <a href="https://storage.googleapis.com/resume-hosting/66d867c7359c7.pdf">
+                        <a href="https://storage.googleapis.com/resume-hosting/66d9ad40482cc.pdf">
                           <SiReaddotcv />
                         </a>
                       </div>
